@@ -1,3 +1,18 @@
 body {
-	background-color: orange;
+	background-color: white;
+}
+
+.top-nav{
+	background-color: black;
+	height: 45px;
+}
+
+.top-nav li{
+	list-style-type: none;
+	font-family: "Arial";
+	color: white;
+	padding: 0 9px;
+    float: left;
+    margin: 10px 15px 0 15px;
+    cursor: pointer;
 }
