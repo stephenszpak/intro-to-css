@@ -1,3 +1,33 @@
 body {
 	background-color: pink;
 }
+
+.new-border{
+	border: 2px solid black;
+}
+
+/*.new-border2{
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}*/
+
+.title{
+	border-color: green;
+}
+
+.images{
+	border-color: blue;
+}
+
+.text1{
+	border-color: red;
+}
+
+.text2{
+	border-color: orange;
+}
+
+.footer{
+	border-color: aqua;
+}
